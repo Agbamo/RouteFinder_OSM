@@ -1,0 +1,149 @@
+<gpx version= "1.1" creator= "Alvaro">
+
+<wpt lat= "38.9819651" lon= "-3.9288946">
+<name>Origen</name>
+</wpt>
+<wpt lat= "38.9861329" lon= "-3.9272632">
+<name>Destino0</name>
+</wpt><wpt lat= "38.9856688" lon= "-3.9302794">
+<name>Destino1</name>
+</wpt><wpt lat= "38.9820301" lon= "-3.9298915">
+<name>Destino2</name>
+</wpt><wpt lat= "38.9821527" lon= "-3.9280295">
+<name>Destino3</name>
+</wpt>
+
+<trk>
+	<trkseg>
+	<trkpt lat= "38.9819651" lon= "-3.9288946">
+		<ele>0</ele>
+		<name>Estado [localizacion=804689308, objetivos=[765309500, 522198143, 522198112, 522198126]]</name>
+	</trkpt>
+	<trkpt lat= "38.9821527" lon= "-3.9280295">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198126, objetivos=[765309500, 522198143, 522198112]]</name>
+	</trkpt>
+	<trkpt lat= "38.9819651" lon= "-3.9288946">
+		<ele>0</ele>
+		<name>Estado [localizacion=804689308, objetivos=[765309500, 522198143, 522198112]]</name>
+	</trkpt>
+	<trkpt lat= "38.98194" lon= "-3.929111">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198128, objetivos=[765309500, 522198143, 522198112]]</name>
+	</trkpt>
+	<trkpt lat= "38.981912" lon= "-3.9295934">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198122, objetivos=[765309500, 522198143, 522198112]]</name>
+	</trkpt>
+	<trkpt lat= "38.9820301" lon= "-3.9298915">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198112, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9821668" lon= "-3.9302673">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198094, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.982196" lon= "-3.9302577">
+		<ele>0</ele>
+		<name>Estado [localizacion=2712170368, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9822202" lon= "-3.9302573">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198109, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9822381" lon= "-3.9302612">
+		<ele>0</ele>
+		<name>Estado [localizacion=2712170370, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9822737" lon= "-3.9302816">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198107, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9827387" lon= "-3.9292321">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198137, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9832324" lon= "-3.9296523">
+		<ele>0</ele>
+		<name>Estado [localizacion=2689850855, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9834841" lon= "-3.9298044">
+		<ele>0</ele>
+		<name>Estado [localizacion=2689850857, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.983523" lon= "-3.9298482">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198138, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.984168" lon= "-3.9301768">
+		<ele>0</ele>
+		<name>Estado [localizacion=804689213, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9846093" lon= "-3.9304042">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198135, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9852492" lon= "-3.9298722">
+		<ele>0</ele>
+		<name>Estado [localizacion=804689235, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9852867" lon= "-3.9298953">
+		<ele>0</ele>
+		<name>Estado [localizacion=368287515, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9853932" lon= "-3.9299667">
+		<ele>0</ele>
+		<name>Estado [localizacion=2689850862, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9856264" lon= "-3.9302372">
+		<ele>0</ele>
+		<name>Estado [localizacion=806368904, objetivos=[765309500, 522198143]]</name>
+	</trkpt>
+	<trkpt lat= "38.9856688" lon= "-3.9302794">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198143, objetivos=[765309500]]</name>
+	</trkpt>
+	<trkpt lat= "38.9861833" lon= "-3.9295525">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198141, objetivos=[765309500]]</name>
+	</trkpt>
+	<trkpt lat= "38.9864922" lon= "-3.9291182">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198145, objetivos=[765309500]]</name>
+	</trkpt>
+	<trkpt lat= "38.9860609" lon= "-3.928821">
+		<ele>0</ele>
+		<name>Estado [localizacion=522198144, objetivos=[765309500]]</name>
+	</trkpt>
+	<trkpt lat= "38.986338" lon= "-3.9284949">
+		<ele>0</ele>
+		<name>Estado [localizacion=503708630, objetivos=[765309500]]</name>
+	</trkpt>
+	<trkpt lat= "38.9873063" lon= "-3.9274105">
+		<ele>0</ele>
+		<name>Estado [localizacion=504665907, objetivos=[765309500]]</name>
+	</trkpt>
+	<trkpt lat= "38.9868276" lon= "-3.9273352">
+		<ele>0</ele>
+		<name>Estado [localizacion=812954600, objetivos=[765309500]]</name>
+	</trkpt>
+	<trkpt lat= "38.9861329" lon= "-3.9272632">
+		<ele>0</ele>
+		<name>Estado [localizacion=765309500, objetivos=[]]</name>
+	</trkpt>
+	</trkseg>
+<desc>
+	Espacio de Estados: [38.9808,-3.9379,38.9891,-3.9145]
+	Nodo Origen: 804689308
+	Nodo Destino: 765309500
+	Nodo Destino: 522198143
+	Nodo Destino: 522198112
+	Nodo Destino: 522198126
+
+	Estrategia: A*
+	Profundidad Maxima: 28
+	Coste de la Solucion: 1644.3730692648958
+	Complejidad Espacial: 195748
+	Complejidad Temporal: 0.104950785 Segundos
+</desc></trk>
+</gpx>
